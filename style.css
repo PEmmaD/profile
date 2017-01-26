@@ -1,0 +1,91 @@
+body {
+  background: #FCEFF5;
+}
+
+h1 {
+  color: #F5C4D0;
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+
+}
+
+h2 {
+  color: #F5C4D0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+
+}
+
+h3 {
+  color: #F5C4D0;
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+
+}
+
+h4 {
+  color: #F5C4D0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  color: #97B7DF;
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul a {
+  text-decoration: none;
+}
+
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+
+.img-circle{
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 100px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.img {
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  width: 200px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding-left: 0px;
+  padding: 0px 20px;
+}
+
+
+
+.fa-instagram {
+  color: #97B7DF;
+  font-weight: lighter;
+  font-size: 25px;
+  text-decoration:none;
+}
+
+.fa-facebook {
+  color: #97B7DF;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+
